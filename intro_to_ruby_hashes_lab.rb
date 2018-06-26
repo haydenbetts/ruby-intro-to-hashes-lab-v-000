@@ -23,7 +23,7 @@ def monopoly_with_third_tier
 	monopoly = {}
 	monopoly[:railroads] = {}
 	monopoly[:railroads][:pieces] = 4
-	monpoly[:railroads][:names]
+	monopoly[:railroads][:names] = {}
 	monopoly
 end
 
